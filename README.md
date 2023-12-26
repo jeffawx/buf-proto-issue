@@ -1,3 +1,5 @@
+Example to reproduce: https://github.com/bufbuild/buf-gradle-plugin/issues/172
+
 The following gradle command will hang:
 
 ```gradle
